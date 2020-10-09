@@ -38,7 +38,8 @@ Other tech skills I have experience with:
 - Windows registry hacking
 - Virtualization with VirtualBox
 - Apache server administration
-- Networking (Ethernet and WiFi)
+- Networking (Ethernet, WiFi, CISCO IOS)
+- Network security (OpenVPN and hardware firewall)
 <!--
 **PsychoCod3r/psychocod3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
